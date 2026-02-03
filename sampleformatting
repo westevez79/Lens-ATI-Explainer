@@ -1,0 +1,511 @@
+<div class="card">
+  <h2>Today’s framing</h2>
+  <div class="kpi">
+    <div class="pill">
+      <div class="label">Damage Baseline (DB)</div>
+      <div class="value"><strong>9.2</strong></div>
+    </div>
+    <div class="pill">
+      <div class="label">Current Score (CS)</div>
+      <div class="value">~<strong>9.3</strong></div>
+    </div>
+    <div class="pill">
+      <div class="label">Effective Score (ES)</div>
+      <div class="value"><strong>9.3</strong></div>
+    </div>
+  </div>
+  <p style="margin-top:10px">
+    Below: ten drivers, each with a short narrative justification and a “real-world impact” section for non-experts.
+  </p>
+  <span class="chip">Tip: click each driver to expand</span>
+</div>
+<!-- Driver 1 -->
+<details open>
+  <summary>
+    <div class="driver-head">
+      <div class="num">1</div>
+      <div class="driver-title">
+        <h3>Civil–Military Norms &amp; Use of Force</h3>
+        <div class="meta">Score rationale: persistent domestic deployment threats + protest-force controversies</div>
+      </div>
+    </div>
+    <div class="scorebox">
+      <div class="slabel">Score</div>
+      <div class="sval"><span class="hi">9.4</span> / 10</div>
+    </div>
+  </summary>
+  <div class="content">
+    <div class="grid">
+      <div class="panel">
+        <h4>What we’re seeing</h4>
+        <p>
+          A recurring pattern: federal force is treated as a first-line “order” solution during domestic unrest,
+          with public threats of troop deployment and aggressive crowd-control tactics around immigration enforcement protests.
+          This doesn’t require tanks in the street to matter. It matters because it nudges the country toward
+          a security mindset for political conflict.
+        </p>
+        <p>
+          The Minneapolis context is a key case study: federal enforcement actions, civilian deaths,
+          and the political fight over whether local jurisdictions can even investigate. That mix—force, opacity, and jurisdictional override—
+          is exactly where democracies lose their footing.
+        </p>
+      </div>
+
+      <div class="panel">
+        <h4>What this means for the average American</h4>
+        <p>
+          You don’t have to attend a protest to feel this. When federal force becomes normal in civic disputes,
+          everyday life gets “spikier”: more aggressive policing postures, more fear-driven political messaging,
+          and higher chance that a peaceful public gathering escalates. The practical impact is a chilling effect—people self-censor,
+          skip civic events, and disengage because the risk feels unpredictable.
+        </p>
+      </div>
+    </div>
+
+    <ul class="sources">
+      <li>Threats/standby dynamics around domestic unrest: <a href="https://www.pbs.org/newshour/nation/army-puts-1500-soldiers-on-standby-for-possible-minnesota-deployment" target="_blank" rel="noopener">PBS NewsHour — soldiers on standby for Minnesota deployment</a>.</li>
+      <li>Use-of-force scrutiny tied to ICE protests and judicial review: <a href="https://www.theguardian.com/us-news/2026/feb/02/judge-federal-agents-use-of-force-portland-ice-protests" target="_blank" rel="noopener">The Guardian — judge weighs restricting federal agents’ protest force in Portland</a>.</li>
+      <li>Minneapolis fatalities + transparency response: <a href="https://apnews.com/article/37af4947057e64efee5e43a8f2e018bb" target="_blank" rel="noopener">AP — DHS issues body cameras after Minneapolis shootings</a>.</li>
+    </ul>
+  </div>
+</details>
+
+<!-- Driver 2 -->
+<details>
+  <summary>
+    <div class="driver-head">
+      <div class="num">2</div>
+      <div class="driver-title">
+        <h3>Weaponization of the Administrative State</h3>
+        <div class="meta">Score rationale: coercive enforcement tools + masked/opaque operations + expansion of administrative mechanisms</div>
+      </div>
+    </div>
+    <div class="scorebox">
+      <div class="slabel">Score</div>
+      <div class="sval"><span class="hi">9.3</span> / 10</div>
+    </div>
+  </summary>
+  <div class="content">
+    <div class="grid">
+      <div class="panel">
+        <h4>What we’re seeing</h4>
+        <p>
+          “Weaponization” isn’t just about prosecutions—it’s about <em>administrative power</em> being used in ways that feel punitive, opaque,
+          or beyond normal guardrails. Recent reporting describes immigration enforcement practices and restraint use that raise questions
+          about accountability and proportionality, particularly when agents are masked and disciplinary outcomes are unclear.
+        </p>
+        <p>
+          Separately, reporting shows how powerful administrative tools (like subpoenas that do not require court approval) can be aimed at ordinary citizens
+          after routine civic expression. That’s the kind of institutional drift that changes behavior: people go quiet not because a law changed,
+          but because the cost of speaking up feels higher.
+        </p>
+      </div>
+
+      <div class="panel">
+        <h4>What this means for the average American</h4>
+        <p>
+          The real-world impact is a slow shift from “citizen” to “subject” in the small moments: people avoiding emails, refusing to sign petitions,
+          skipping public meetings, or worrying that normal speech could trigger scrutiny. Even if you never face enforcement directly,
+          the <em>perception</em> that agencies can reach into your life without oversight changes how free people behave.
+        </p>
+      </div>
+    </div>
+
+    <ul class="sources">
+      <li>Enforcement restraint and accountability concerns: <a href="https://www.propublica.org/article/videos-ice-dhs-immigration-agents-using-chokeholds-citizens" target="_blank" rel="noopener">ProPublica — ICE/DHS agents using prohibited chokeholds</a>.</li>
+      <li>Administrative subpoenas used against Americans after speech: <a href="https://www.washingtonpost.com/investigations/2026/02/03/homeland-security-administrative-subpoena/" target="_blank" rel="noopener">Washington Post — DHS administrative subpoenas targeting Americans</a>.</li>
+      <li>Warrantless search allegation involving ICE: <a href="https://www.pbs.org/newshour/nation/a-u-s-citizen-says-ice-forced-open-the-door-to-his-minnesota-home-and-removed-him-in-his-underwear-after-a-warrantless-search" target="_blank" rel="noopener">PBS NewsHour — citizen alleges warrantless ICE search</a>.</li>
+    </ul>
+  </div>
+</details>
+
+<!-- Driver 3 -->
+<details>
+  <summary>
+    <div class="driver-head">
+      <div class="num">3</div>
+      <div class="driver-title">
+        <h3>Rule of Law &amp; Accountability</h3>
+        <div class="meta">Score rationale: contested jurisdiction + reluctance to investigate + internal DOJ strain</div>
+      </div>
+    </div>
+    <div class="scorebox">
+      <div class="slabel">Score</div>
+      <div class="sval"><span class="hi">9.2</span> / 10</div>
+    </div>
+  </summary>
+  <div class="content">
+    <div class="grid">
+      <div class="panel">
+        <h4>What we’re seeing</h4>
+        <p>
+          Democracies rely on a simple premise: when state power harms people, there is a credible path to investigation and accountability.
+          Recent reporting around Minneapolis highlights conflict over who has jurisdiction and whether federal authorities will pursue civil-rights investigations
+          after fatal use-of-force incidents. At the same time, reporting notes notable internal strain—resignations and departures from prosecutors—linked to these disputes.
+        </p>
+        <p>
+          These are classic “rule of law” stress signals: not because the legal system has stopped, but because accountability becomes uneven,
+          delayed, or contingent on political convenience.
+        </p>
+      </div>
+
+      <div class="panel">
+        <h4>What this means for the average American</h4>
+        <p>
+          If accountability becomes selective, ordinary people lose confidence that the rules are applied fairly.
+          That’s when civic trust collapses—more polarization, more conspiracy thinking, and more willingness to “take matters into our own hands.”
+          In practical terms: people stop believing official investigations, and the country becomes harder to govern without coercion.
+        </p>
+      </div>
+    </div>
+
+    <ul class="sources">
+      <li>DOJ stance on civil-rights investigation in Minnesota ICE shooting: <a href="https://apnews.com/article/justice-department-resignations-renee-good-f456dc01c7d72e15662016193b2e383e" target="_blank" rel="noopener">AP — DOJ sees no basis for civil-rights probe (Jan. 13)</a>.</li>
+      <li>Resignations/instability among federal prosecutors tied to enforcement controversies: <a href="https://apnews.com/article/27b1e380562c71072fdbcde10ee8f468" target="_blank" rel="noopener">AP — departures at Minnesota U.S. Attorney’s Office</a>.</li>
+      <li>Transparency response (body cams) tied to contested accounts: <a href="https://apnews.com/article/37af4947057e64efee5e43a8f2e018bb" target="_blank" rel="noopener">AP — DHS body-worn cameras after Minneapolis shootings</a>.</li>
+    </ul>
+  </div>
+</details>
+
+<!-- Driver 4 -->
+<details>
+  <summary>
+    <div class="driver-head">
+      <div class="num">4</div>
+      <div class="driver-title">
+        <h3>Civil Liberties &amp; Protest Climate</h3>
+        <div class="meta">Score rationale: protest escalation risks + force controversies + chilling effects</div>
+      </div>
+    </div>
+    <div class="scorebox">
+      <div class="slabel">Score</div>
+      <div class="sval"><span class="hi">9.1</span> / 10</div>
+    </div>
+  </summary>
+  <div class="content">
+    <div class="grid">
+      <div class="panel">
+        <h4>What we’re seeing</h4>
+        <p>
+          The protest climate is increasingly combustible: demonstrations around immigration enforcement are met with heightened federal presence,
+          and in some places the boundary between “crowd control” and “punishment” becomes blurred. Even when formal rights remain intact,
+          the day-to-day reality of exercising them becomes riskier.
+        </p>
+        <p>
+          Separate from federal force, the broader civic atmosphere includes intimidation and collision points—
+          such as high school protest incidents—showing how national conflict is now trickling into everyday community spaces.
+        </p>
+      </div>
+
+      <div class="panel">
+        <h4>What this means for the average American</h4>
+        <p>
+          This is where “politics” becomes personal: school events, city council meetings, rallies, even cultural spaces.
+          The impact is not just safety—it’s community trust. When dissent becomes dangerous, people disengage,
+          and the loudest (or most aggressive) voices fill the vacuum.
+        </p>
+      </div>
+    </div>
+
+    <ul class="sources">
+      <li>Student protest incident (civic polarization and intimidation climate): <a href="https://apnews.com/video/car-hits-student-during-an-anti-ice-protest-outside-a-nebraska-high-school-2485c5f17c8f4888bafc0c2b8562c2cc" target="_blank" rel="noopener">AP Video — car hits student during anti-ICE protest</a>.</li>
+      <li>Judge weighing restrictions on federal protest force: <a href="https://www.theguardian.com/us-news/2026/feb/02/judge-federal-agents-use-of-force-portland-ice-protests" target="_blank" rel="noopener">The Guardian — Portland protest force case</a>.</li>
+      <li>Minneapolis: protests + immigration enforcement crackdown coverage: <a href="https://www.pbs.org/newshour/politics/trump-threatens-to-use-insurrection-act-to-put-down-protests-in-minneapolis" target="_blank" rel="noopener">PBS NewsHour — Insurrection Act threat amid Minneapolis protests</a>.</li>
+    </ul>
+  </div>
+</details>
+
+<!-- Driver 5 -->
+<details>
+  <summary>
+    <div class="driver-head">
+      <div class="num">5</div>
+      <div class="driver-title">
+        <h3>Minority Protections &amp; Outgroup Targeting</h3>
+        <div class="meta">Score rationale: immigrant demonization + enforcement narratives + contested “gang” claims</div>
+      </div>
+    </div>
+    <div class="scorebox">
+      <div class="slabel">Score</div>
+      <div class="sval"><span class="hi">9.2</span> / 10</div>
+    </div>
+  </summary>
+  <div class="content">
+    <div class="grid">
+      <div class="panel">
+        <h4>What we’re seeing</h4>
+        <p>
+          Outgroup targeting is not only about policy—it’s about storytelling: who is framed as dangerous, unworthy, or “enemy-like.”
+          Reporting on immigration enforcement has repeatedly surfaced cases where official narratives about targets (gang ties, violent intent)
+          face scrutiny in court or are contradicted by filings and evidence. When outgroup demonization becomes a reflex,
+          it lowers the moral barrier to harsher enforcement and weaker due process.
+        </p>
+      </div>
+
+      <div class="panel">
+        <h4>What this means for the average American</h4>
+        <p>
+          Even if you’re not part of the targeted group, this shapes the country you live in.
+          When government rhetoric makes some people “less deserving,” the legal culture changes for everyone:
+          more tolerance for shortcuts, less insistence on proof, and more willingness to accept collateral harm as normal.
+        </p>
+      </div>
+    </div>
+
+    <ul class="sources">
+      <li>Contested DHS narratives about alleged gang ties and force justification: <a href="https://www.theguardian.com/us-news/2026/feb/02/portland-venezuelans-shot-border-patrol-court" target="_blank" rel="noopener">The Guardian — DHS account falls apart in court (“smear campaign” allegations)</a>.</li>
+      <li>ProPublica’s documentation of enforcement tactics affecting immigrants and citizens: <a href="https://www.propublica.org/article/immigration-dhs-american-citizens-arrested-detained-against-will" target="_blank" rel="noopener">ProPublica — Americans detained during immigration operations</a>.</li>
+    </ul>
+  </div>
+</details>
+
+<!-- Driver 6 -->
+<details open>
+  <summary>
+    <div class="driver-head">
+      <div class="num">6</div>
+      <div class="driver-title">
+        <h3>Elections &amp; Democratic Process</h3>
+        <div class="meta">Score rationale: executive signaling toward federal “takeover” of voting administration</div>
+      </div>
+    </div>
+    <div class="scorebox">
+      <div class="slabel">Score</div>
+      <div class="sval"><span class="hi">9.4</span> / 10</div>
+    </div>
+  </summary>
+  <div class="content">
+    <div class="grid">
+      <div class="panel">
+        <h4>What we’re seeing</h4>
+        <p>
+          The most direct democratic stress signal in the current cycle is rhetorical, but it’s not “just words.”
+          When the sitting President publicly urges a party to “take over” or “nationalize” voting in specific jurisdictions,
+          it breaks a deep U.S. norm: elections are decentralized and insulated from discretionary federal seizure.
+        </p>
+        <p>
+          Under ATI rules, credible executive signaling is scoreable because it changes institutional behavior:
+          it pressures state officials, primes agencies, and lowers the public’s expectation that elections are unconditional.
+        </p>
+      </div>
+
+      <div class="panel">
+        <h4>What this means for the average American</h4>
+        <p>
+          This is the “foundation layer.” If elections become a power struggle rather than a neutral civic process, everything else turns volatile:
+          lawsuits multiply, losing sides reject outcomes, and officials feel pressured to “pick” winners. For regular people, the risk is a future where
+          voting feels less like a right and more like a contested privilege—especially in targeted areas.
+        </p>
+      </div>
+    </div>
+
+    <ul class="sources">
+      <li>Direct reporting of the “nationalize voting” statement: <a href="https://www.reuters.com/world/us/trump-says-republicans-should-nationalize-voting-least-15-places-2026-02-02/" target="_blank" rel="noopener">Reuters — Trump urges Republicans to “nationalize” voting</a>.</li>
+      <li>Constitutional and practical implications of election federalization rhetoric: <a href="https://www.washingtonpost.com/politics/2026/02/02/trump-elections-nationalize-fraud/" target="_blank" rel="noopener">Washington Post — nationalizing elections &amp; state authority</a>.</li>
+      <li>Broader context and backlash (including GOP pushback): <a href="https://www.theguardian.com/us-news/2026/feb/03/trump-republicans-nationalize-elections-midterms" target="_blank" rel="noopener">The Guardian — “take over” elections rhetoric</a>.</li>
+    </ul>
+  </div>
+</details>
+
+<!-- Driver 7 -->
+<details>
+  <summary>
+    <div class="driver-head">
+      <div class="num">7</div>
+      <div class="driver-title">
+        <h3>Media Freedom &amp; Information Integrity</h3>
+        <div class="meta">Score rationale: access restrictions + legal pressure + chilling effects on reporting</div>
+      </div>
+    </div>
+    <div class="scorebox">
+      <div class="slabel">Score</div>
+      <div class="sval"><span class="hi">9.5</span> / 10</div>
+    </div>
+  </summary>
+  <div class="content">
+    <div class="grid">
+      <div class="panel">
+        <h4>What we’re seeing</h4>
+        <p>
+          Healthy democracies tolerate hostile questions. When institutions restrict access, threaten credentials,
+          or use legal mechanisms that chill sourcing and reporting, information integrity degrades—even if newspapers still publish.
+          Reporting has described new rules restricting journalist access within the White House, and separate military press restrictions
+          that major outlets warned could reduce independent coverage.
+        </p>
+        <p>
+          The danger isn’t a single rule—it’s the pattern: less transparency, more leverage over press behavior,
+          and a steadily rising cost to investigative reporting.
+        </p>
+      </div>
+
+      <div class="panel">
+        <h4>What this means for the average American</h4>
+        <p>
+          It becomes harder to know what’s true in time to matter. That’s the real harm.
+          If journalists can’t access officials, can’t protect sources, or face retaliation pressure, the public gets fewer verified facts
+          and more speculation. People fill the gaps with rumor and tribal narratives—and society becomes easier to manipulate.
+        </p>
+      </div>
+    </div>
+
+    <ul class="sources">
+      <li>White House restricting journalist access: <a href="https://www.reuters.com/business/media-telecom/white-house-issues-new-rule-restricting-access-journalists-2025-10-31/" target="_blank" rel="noopener">Reuters — new rule restricting journalist access</a>.</li>
+      <li>Pentagon press restrictions tied to credential threats: <a href="https://www.reuters.com/business/media-telecom/trumps-pentagon-says-press-must-agree-not-disclose-sensitive-information-2025-09-21/" target="_blank" rel="noopener">Reuters — Pentagon policy restricting press coverage</a>.</li>
+      <li>Broader concerns about media pressure and chilling effects: <a href="https://www.washingtonpost.com/business/2026/01/25/trump-media-lawsuits/" target="_blank" rel="noopener">Washington Post — lawsuits &amp; press freedom concerns</a>.</li>
+    </ul>
+  </div>
+</details>
+
+<!-- Driver 8 -->
+<details>
+  <summary>
+    <div class="driver-head">
+      <div class="num">8</div>
+      <div class="driver-title">
+        <h3>Corruption, Patronage Capture &amp; Self-Dealing</h3>
+        <div class="meta">Score rationale: retaliatory governance risks + self-aggrandizing institutional control + selective punishment signals</div>
+      </div>
+    </div>
+    <div class="scorebox">
+      <div class="slabel">Score</div>
+      <div class="sval"><span class="hi">9.0</span> / 10</div>
+    </div>
+  </summary>
+  <div class="content">
+    <div class="grid">
+      <div class="panel">
+        <h4>What we’re seeing</h4>
+        <p>
+          Corruption in the ATI includes “hard” corruption (bribes) and “soft” capture: using the state to reward allies, punish enemies,
+          and turn institutions into personal brands. The cultural sphere matters here because it signals whether power respects independent civic life.
+          Reporting on the Kennedy Center describes leadership upheaval, backlash-driven cancellations, and a proposed closure tied to executive involvement—
+          a move critics interpret as politicization of a national cultural institution.
+        </p>
+        <p>
+          Separately, contract cancellation episodes raise questions about whether procurement actions are neutral governance or political discipline.
+          The ATI score reflects the risk environment: decisions with real financial consequences occurring amid intensified loyalty dynamics.
+        </p>
+      </div>
+
+      <div class="panel">
+        <h4>What this means for the average American</h4>
+        <p>
+          This shows up as “who you know” governance. Contractors, nonprofits, artists, and even local institutions start acting cautiously—
+          not to comply with rules, but to avoid punishment. It warps the economy: risk increases, innovation shrinks, and citizens lose faith that
+          opportunities are fair. In plain terms: the system feels rigged, and people disengage or radicalize.
+        </p>
+      </div>
+    </div>
+
+    <ul class="sources">
+      <li>Kennedy Center closure and cancellations after leadership upheaval: <a href="https://apnews.com/article/trump-kennedy-center-closing-renovations-c6dba4a46e71b0d0e48d46501195366c" target="_blank" rel="noopener">AP — Kennedy Center to close for two years after performers’ backlash</a>.</li>
+      <li>Contract cancellation with political reverberations: <a href="https://www.reuters.com/sustainability/boards-policy-regulation/treasury-cancels-all-booz-allen-hamilton-contracts-2026-01-26/" target="_blank" rel="noopener">Reuters — Treasury cancels all Booz Allen contracts</a>.</li>
+      <li>Official Treasury statement (baseline facts): <a href="https://home.treasury.gov/news/press-releases/sb0371" target="_blank" rel="noopener">U.S. Treasury — cancellation announcement</a>.</li>
+    </ul>
+  </div>
+</details>
+
+<!-- Driver 9 -->
+<details>
+  <summary>
+    <div class="driver-head">
+      <div class="num">9</div>
+      <div class="driver-title">
+        <h3>Federalism &amp; Institutional Autonomy</h3>
+        <div class="meta">Score rationale: state authority challenged; “takeover” language primes coercion pathways</div>
+      </div>
+    </div>
+    <div class="scorebox">
+      <div class="slabel">Score</div>
+      <div class="sval"><span class="hi">8.9</span> / 10</div>
+    </div>
+  </summary>
+  <div class="content">
+    <div class="grid">
+      <div class="panel">
+        <h4>What we’re seeing</h4>
+        <p>
+          Federalism is the U.S. “circuit breaker.” It prevents one center of power from controlling everything.
+          The ATI sees federalism risk rising when the federal executive signals a willingness to override states—especially around elections and law enforcement.
+          The elections “nationalization” rhetoric is not only an elections issue; it is also a federalism issue, because it treats states as subordinate agents,
+          not co-equal sovereigns within their constitutional role.
+        </p>
+      </div>
+
+      <div class="panel">
+        <h4>What this means for the average American</h4>
+        <p>
+          Your state and local government become less able to protect you from bad federal decisions—or to tailor policy to local needs.
+          Practically: more uniform mandates, more coercive funding leverage, and less room for communities to “vote with their feet” through local governance.
+          Federalism is boring until you need it. Then it’s a lifeline.
+        </p>
+      </div>
+    </div>
+
+    <ul class="sources">
+      <li>Election “takeover” rhetoric and state authority implications: <a href="https://www.washingtonpost.com/politics/2026/02/02/trump-elections-nationalize-fraud/" target="_blank" rel="noopener">Washington Post — elections nationalization vs state power</a>.</li>
+      <li>Direct reporting of takeover language and pushback: <a href="https://www.reuters.com/world/us/trump-says-republicans-should-nationalize-voting-least-15-places-2026-02-02/" target="_blank" rel="noopener">Reuters — “nationalize” voting remarks</a>.</li>
+    </ul>
+  </div>
+</details>
+
+<!-- Driver 10 -->
+<details>
+  <summary>
+    <div class="driver-head">
+      <div class="num">10</div>
+      <div class="driver-title">
+        <h3>International Norms &amp; Law-of-War Credibility</h3>
+        <div class="meta">Score rationale: extraordinary foreign action + disputed authorization + precedent risks</div>
+      </div>
+    </div>
+    <div class="scorebox">
+      <div class="slabel">Score</div>
+      <div class="sval"><span class="hi">9.3</span> / 10</div>
+    </div>
+  </summary>
+  <div class="content">
+    <div class="grid">
+      <div class="panel">
+        <h4>What we’re seeing</h4>
+        <p>
+          International norms are not abstract. They’re guardrails against a world where powerful countries remove leaders by force whenever convenient.
+          Reporting on the U.S. capture of Venezuela’s leader describes an extraordinary operation framed as “law enforcement,” with the U.S. effectively asserting
+          authority to seize a sitting foreign head of state. Reuters reporting also captured language about “running the country” and potential further strikes.
+        </p>
+        <p>
+          Regardless of one’s view of Maduro, this is precedent-setting. And precedent is the currency of international norms:
+          what the U.S. treats as acceptable becomes easier for others to imitate.
+        </p>
+      </div>
+
+      <div class="panel">
+        <h4>What this means for the average American</h4>
+        <p>
+          This can raise global instability, invite retaliation, increase the risk of long entanglements, and strain alliances—often with economic knock-on effects:
+          markets, oil prices, supply chains, and refugee flows. At home, it also normalizes the idea that “extraordinary actions” don’t need
+          extraordinary oversight. That mindset tends to boomerang inward.
+        </p>
+      </div>
+    </div>
+
+    <ul class="sources">
+      <li>Operational details and extraordinary nature of the capture: <a href="https://www.reuters.com/business/aerospace-defense/mock-house-cia-source-special-forces-us-operation-capture-maduro-2026-01-03/" target="_blank" rel="noopener">Reuters — Operation Absolute Resolve reporting</a>.</li>
+      <li>AP overview of the capture and its implications: <a href="https://apnews.com/article/trump-maduro-venezuela-presidential-palace-blowtorches-7969152ae48510003fe9cbde92f3c102" target="_blank" rel="noopener">AP — How the U.S. captured Nicolás Maduro</a>.</li>
+      <li>Follow-on rhetoric about “running the country” / further strikes: <a href="https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/" target="_blank" rel="noopener">Reuters — Trump says U.S. will “run the country,” warns of more action</a>.</li>
+    </ul>
+  </div>
+</details>
+
+<div class="hr"></div>
+
+<section class="card" style="margin-top: 14px;">
+  <h2>How to read “high scores” without panic</h2>
+  <p>
+    A high ATI does not mean “tomorrow is collapse.” It means the system is operating with damaged guardrails and rising coercive incentives.
+    The point is to stay oriented: watch for changes in oversight, transparency, elections administration, and the treatment of dissent.
+  </p>
+  <p class="note" style="margin-top:10px">
+    The healthiest audience reaction is not fear—it’s informed attention, civic steadiness, and a refusal to normalize what shouldn’t be normal.
+  </p>
+</section>
